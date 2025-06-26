@@ -9,7 +9,7 @@
       "settings": {
         "clients": [
           {
-            "id": "你的UUID",
+            "id": "67ef6fe6-19f3-410e-84cd-15a2ccc70124",
             "flow": "xtls-rprx-vision"
           }
         ],
